@@ -26,4 +26,4 @@ You may also see any lint errors in the console.
 
 ### `COMPLETE SCREEN`
 
-<img width="300" alt="fs4" src="https://res.cloudinary.com/di6kiwkwf/image/upload/v1644693574/APPS/BLOG-REACT-MATERIAL-UI/Captura_de_pantalla_251_efmxqa.png">
+<img width="100%" alt="fs4" src="https://res.cloudinary.com/di6kiwkwf/image/upload/v1644693574/APPS/BLOG-REACT-MATERIAL-UI/Captura_de_pantalla_251_efmxqa.png">
