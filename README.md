@@ -6,6 +6,12 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 In the project directory, you can run:
 
+### `git clone https://github.com/CesarAcjotaMerma/CesarAcjotaMerma-Blog-React-MaterialUI.git`
+
+### `cd Blog-React-MaterialUI`
+
+### `npm install \\ yarn install`
+
 ### `npm start`
 
 Runs the app in the development mode.\
@@ -14,7 +20,7 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 The page will reload when you make changes.\
 You may also see any lint errors in the console.
 
-### `Results`
+### `Results Screens`
 
 <img width="100%" alt="fs1" src="https://res.cloudinary.com/di6kiwkwf/image/upload/v1644693569/APPS/BLOG-REACT-MATERIAL-UI/Captura_de_pantalla_249_ztfiiq.png">
 
