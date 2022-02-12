@@ -1,10 +1,6 @@
-# Getting Started with Create React App
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Blog in React with MaterialUI by Cesar Acjota
 
 ## Available Scripts
-
-In the project directory, you can run:
 
 ### `git clone https://github.com/CesarAcjotaMerma/CesarAcjotaMerma-Blog-React-MaterialUI.git`
 
